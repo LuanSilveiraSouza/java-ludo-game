@@ -26,6 +26,7 @@ Ludo (also know as Pachisi) is a classic board game that involves some kind of s
 
 This project implements Ludo using the Java language and its common lib collection.
 
+For more details about the game and its rules, check the [Reference](https://en.wikipedia.org/wiki/Ludo_(board_game))
 
 # :rocket: How to Run
 
